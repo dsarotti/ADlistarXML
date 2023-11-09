@@ -69,8 +69,11 @@ public class ListarXml {
         FileInputStream fis = null;
         //Cargar el fichero xml
         try{
+            //Se solicita a la factoría un nuevo DocumentBuilder
             db=dbf.newDocumentBuilder();
+            //Se crea el flujo para obtener el documento
             fis = new FileInputStream(new File(ruta));
+            //Se obtiene el contenido del documento a partir del flujo creado antes
             doc=db.parse(fis);
         }catch (IOException| ParserConfigurationException|SAXException e){
             System.out.println("Error al acceder al documento.");
