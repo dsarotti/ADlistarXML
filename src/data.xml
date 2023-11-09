@@ -1,0 +1,38 @@
+<messages>
+	<note id="501">
+		<to>Tove</to>
+		<from>Jani</from>
+		<heading>Recordatorio</heading>
+		<body>Quedamos este viernes</body>
+	</note>
+	<note id="502">
+		<to>Jani</to>
+		<from>Tove</from>
+		<heading>Re: Recordatorio</heading>
+		<body>Claro</body>
+	</note>
+	<note id="503">
+		<to>Tove</to>
+		<from>Manolo</from>
+		<heading>Quedada</heading>
+		<body>Recuerda que el viernes quedamos con los otros dos</body>
+	</note>
+	<note id="504">
+		<to>Maria</to>
+		<from>Marta</from>
+		<heading>Cena</heading>
+		<body>El Jueves cena?</body>
+	</note>
+	<note id="505">
+		<to>Marta</to>
+		<from>Maria</from>
+		<heading>Re: Cena</heading>
+		<body>Claro, quedamos</body>
+	</note>
+	<note id="506">
+		<to>John</to>
+		<from>John</from>
+		<heading>Adjunto</heading>
+		<body>Por si acaso</body>
+	</note>
+</messages> 
